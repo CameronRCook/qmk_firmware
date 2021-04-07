@@ -33,7 +33,9 @@
 
 #define IGNORE_MOD_TAP_INTERRUPT
 
-#define TAPPING_TERM 150
+#define TAPPING_TERM 225
+
+#define TAPPING_FORCE_HOLD
 
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
